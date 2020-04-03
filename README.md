@@ -1,4 +1,5 @@
 README
+Upon running the file...
 1. Enter a utility function for White. Choose one from evasive, conqueror, infiltrator, and fishing_net.
 2. Enter a utility function for Black. Choose one from evasive, conqueror, infiltrator, and fishing_net.
 3. Enter a board size in this format: number of rows, number of columns, number of rows filled (example: 8,8,2).
