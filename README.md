@@ -1,4 +1,4 @@
-# klee16-earlham.edu
+README
 1. In the terminal, type in: python Lee_Cho-LabB.py
 2. Enter a utility function for White. Choose one from evasive, conqueror, infiltrator, and fishing_net.
 3. Enter a utility function for Black. Choose one from evasive, conqueror, infiltrator, and fishing_net.
