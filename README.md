@@ -1,4 +1,4 @@
-Multi-player AI for the game Breakthrough
+# Multi-player AI for the game Breakthrough
 
 Upon running the file...
 1. Enter a utility function for White. Choose one from evasive, conqueror, infiltrator, and fishing_net.
